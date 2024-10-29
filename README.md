@@ -21,4 +21,8 @@ Feel free to follow along as I develop projects and add content. I’ll be focus
 - Data Analysis with Pandas
 - Data Visualization with Matplotlib & Seaborn
 - Machine Learning Basics with Scikit-Learn
+## Getting Started
 
+If you're interested in exploring or contributing to this repository as I learn, you can start by cloning the repository:
+```bash
+git clone https://github.com/Teewambua/Teewambua.git
