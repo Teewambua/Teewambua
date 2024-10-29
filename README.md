@@ -1,6 +1,6 @@
 # Data Science & Machine Learning Journey
 
-Welcome to my Tee repository! I'm a student eager to explore the world of data science and machine learning. This repository will serve as a place to track my progress, experiments, and learning materials as I grow my skills in the field.
+Welcome to my Teewambua repository! I'm a student eager to explore the world of data science and machine learning. This repository will serve as a place to track my progress, experiments, and learning materials as I grow my skills in the field.
 
 ## Table of Contents
 
